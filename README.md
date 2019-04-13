@@ -1,2 +1,2 @@
 # Predicting_Company_Performance
-Predicting Company Performance using Historical 10K documents and Text Classification Methods
+Predicting the Financial Performance of Companies using Historical 10K documents and Text Classification Methods
